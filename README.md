@@ -6,7 +6,7 @@
 - 📫 How to reach me: monishkagohil1194@gmail.com
 - ⚡ Fun fact: I love black !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&count_private=true)
 
 
 ![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
