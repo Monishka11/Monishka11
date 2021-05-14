@@ -8,8 +8,8 @@
 
 ![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&count_private=true)
 
+![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&theme=highcontrast&show_icons=true)
 
-![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
+
+![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
 -->
