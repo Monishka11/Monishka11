@@ -6,6 +6,9 @@
 - 📫 How to reach me: monishkagohil1194@gmail.com
 - ⚡ Fun fact: I love black !
 
+![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
+
+
 <!--
 **Monishka11/Monishka11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
