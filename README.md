@@ -9,7 +9,7 @@
 
 ![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
 
@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 -->
