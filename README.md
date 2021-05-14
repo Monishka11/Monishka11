@@ -11,6 +11,8 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monishka11)](https://github.com/Monishka11/github-readme-stats)
