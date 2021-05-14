@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monishka11&langs_count=10&theme=highcontrast&show_icons=true)](https://github.com/Monishka11/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Monishka11&repo=github-readme-stats)](https://github.com/Monishka11/github-readme-stats)
+
 
 <!--
 **Monishka11/Monishka11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
