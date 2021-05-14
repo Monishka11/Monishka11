@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript projects..
 - 🌱 I’m currently learning Web Development..
 - 👯 I’m looking to collaborate on some cool ideas for web development..
 - 💬 Ask me about How did I manage to learn multiple languages..
