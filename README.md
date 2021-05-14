@@ -8,8 +8,6 @@
 
 ![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&count_private=true&theme=highcontrast&show_icons=true)
 
-![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&theme=highcontrast&show_icons=true)
-
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
