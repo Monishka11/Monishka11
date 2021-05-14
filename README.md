@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Web Development..
-- 👯 I’m looking to collaborate on some cool ideas for web development..
+- 👯 I’m looking to collaborate on some cool ideas for building web pages..
 - 💬 Ask me about How did I manage to learn multiple languages..
 - 📫 How to reach me: monishkagohil1194@gmail.com
 - ⚡ Fun fact: I love black !
