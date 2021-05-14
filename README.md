@@ -6,6 +6,9 @@
 - 📫 How to reach me: monishkagohil1194@gmail.com
 - ⚡ Fun fact: I love black !
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
+
+
 ![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monishka11)](https://github.com/Monishka11/github-readme-stats)
