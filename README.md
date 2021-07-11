@@ -13,7 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monishka11&langs_count=10&theme=highcontrast&show_icons=true)](https://github.com/Monishka11/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!--
@@ -38,6 +37,10 @@ Here are some ideas to get you started:
 
 For language pie chart: 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Monishka11" frameborder="0"></iframe>
+
+For adding tools and it's names:
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 -->
