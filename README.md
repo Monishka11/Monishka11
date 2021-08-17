@@ -11,9 +11,6 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monishka11&langs_count=10&theme=highcontrast&show_icons=true)](https://github.com/Monishka11/github-readme-stats)
-
-
 
 <!--
 **Monishka11/Monishka11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +28,10 @@ Here are some ideas to get you started:
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monishka11&langs_count=10&theme=highcontrast&show_icons=true)](https://github.com/Monishka11/github-readme-stats)
+
 
 
 ![Monishka's github stats](https://github-readme-stats.vercel.app/api?username=Monishka11)
