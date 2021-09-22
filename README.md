@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development..
-- 👯 I’m looking to collaborate on some cool ideas for building web pages..
-- 💬 Ask me about How did I manage to learn multiple languages..
+* 🌱 I’m currently learning Web Development..
+* 👯 I’m looking to collaborate on some cool ideas for building web pages..
+* ⚡ Fun fact: I love crows and owls !
+* 💬 Ask me about my interest in basic law, we may end up working together.
 - 📫 How to reach me: monishkagohil1194@gmail.com
-- ⚡ Fun fact: I love black !
 
 ![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&count_private=true&theme=highcontrast&show_icons=true)
 
