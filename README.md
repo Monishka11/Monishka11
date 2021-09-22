@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-* 🌱 I’m currently working on my web dev projects and improving my grasp over the german language( It is the most logical language I found after Javascript).
-* 👯 You have a project and looking for a fresh pair of eyes for retrospection, just buzz me on my mail, I am 100% sure I will find a flaw !
-* ⚡ Fun fact: I love crows and owls !
-* 💬 Ask me about my interest in basic law, we may end up working together.
+- 🌱 I’m currently working on my web dev projects and improving my grasp over the german language( It is the most logical language I found after Javascript).
+- 👯 You have a project and looking for a fresh pair of eyes for retrospection, just buzz me on my mail, I am 100% sure I will find a flaw !
+- ⚡ Fun fact: I love crows and owls !
+- 💬 Ask me about my interest in basic law, we may end up working together.
 
-- 📫 Where to reach me ? monishkagohil1194@gmail.com : https://www.linkedin.com/in/monishka-gohil11/ ;
+* 📫 Where to reach me ? monishkagohil1194@gmail.com : https://www.linkedin.com/in/monishka-gohil11/ ;
 
 ![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&count_private=true&theme=highcontrast&show_icons=true)
 
