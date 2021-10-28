@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- ![Metrics](https://metrics.lecoq.io/Monishka11?template=classic&config.timezone=Europe%2FBerlin)
 - 🌱 I’m currently working on my MERN stack projects and improving my grasp over the german language( It is the most logical language I found after Javascript).
 - 👯 You have a project and looking for a fresh pair of eyes for retrospection, just buzz me on my mail, I am 100% sure I will find a flaw!
 - 💬 Ask me about my interest in basic law, we may end up working together.
@@ -26,6 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+- ![Metrics](https://metrics.lecoq.io/Monishka11?template=classic&config.timezone=Europe%2FBerlin)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
