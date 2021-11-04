@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently working on my MERN stack projects and improving my grasp over the german language (It is the most logical language I found after Javascript).
 - 👯 You have a project and looking for a fresh pair of eyes for retrospection, just buzz me on my mail, I am 100% sure I will find a flaw!
