@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently working on my MERN stack projects and improving my grasp over the german language (It is the most logical language I found after Javascript).
+- 👩🏻‍💻 I like to learn by teaching.
 - 👯 You have a project and looking for a fresh pair of eyes for retrospection, just buzz me on my mail, I am 100% sure I will find a flaw!
 - 💬 Ask me about my interest in basic law, we may end up working together.
 * 📫 Where to reach me ? monishkagohil1194@gmail.com : https://www.linkedin.com/in/monishka-gohil11/ ;
