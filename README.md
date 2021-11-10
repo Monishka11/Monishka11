@@ -5,7 +5,7 @@
 - 👩🏻‍🏫 I swear on writing clean & readable code.
 - 👯 You have a project and looking for a fresh pair of eyes for retrospection, just buzz me on my mail, I am 100% sure I will find a flaw!
 - 💬 Ask me about my interest in basic law, we may end up working together.
-* 📫 Where to reach me ? monishkagohil1194@gmail.com : https://www.linkedin.com/in/monishka-gohil11/ ;
+- 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
