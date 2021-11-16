@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on my frontend projects and improving my grasp over the german language (It is the most logical language I found after Javascript).
 - 👩🏻‍💻 Recent website created for a hackathon: [Mexicana](https://mexicana-el-hackathon.vercel.app/)
 - 👩🏻‍🏫 I swear on writing clean & readable code.
-- 💬 Ask me about my interest in basic law, we may end up working together.
 - 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
 
 
@@ -29,6 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+- 💬 Ask me about my interest in basic law, we may end up working together.
 
 - ![Metrics](https://metrics.lecoq.io/Monishka11?template=classic&config.timezone=Europe%2FBerlin)
 
