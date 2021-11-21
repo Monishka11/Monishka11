@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kem cho 👋
 
 - 👩🏻‍💻 Recent website created for a hackathon: [Mexicana](https://mexicana-el-hackathon.vercel.app/)
 - 🌱 I’m currently working on my frontend projects and improving my grasp over the german language.
