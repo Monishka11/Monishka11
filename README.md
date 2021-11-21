@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently working on my frontend projects and improving my grasp over the german language (It is the most logical language I found after Javascript).
+- 🌱 I’m currently working on my frontend projects and improving my grasp over the german language.
 - 👩🏻‍💻 Recent website created for a hackathon: [Mexicana](https://mexicana-el-hackathon.vercel.app/)
 - 👩🏻‍🏫 I swear on writing clean & readable code.
 - 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
