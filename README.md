@@ -1,6 +1,6 @@
 ## Kem cho 👋
 
-- 👩🏻‍💻 Recent website I created for the hackathon I participated: [Mexicanaaa](https://mexicana-el-hackathon.vercel.app/)
+- 👩🏻‍💻 Recent website I created for the hackathon I participated: [Mexicanaa](https://mexicana-el-hackathon.vercel.app/)
 - 🌱 I am currently working on my frontend web dev projects and improving my grasp over the german language.
 - 👩 Looking for open source project collaboration.
 - 👩🏻‍🏫 I swear on writing clean & readable code.
