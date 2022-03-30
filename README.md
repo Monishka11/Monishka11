@@ -1,8 +1,7 @@
 ## Kem cho 👋
 
 - 👩🏻‍💻 Recent website I created for a hackathon: [Mexicanaaaaa](https://mexicana-el-hackathon.vercel.app/)
-- 🌱 I am currently working on my frontend web dev projects and improving my grasp over the german language.
-- 👩 Looking for open source project collaboration.
+- 🌱 I am currently teaching a bright group of people.
 - 👩🏻‍🏫 I swear on writing clean & readable code.
 - 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
 
