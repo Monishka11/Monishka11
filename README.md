@@ -1,6 +1,6 @@
 ## Kem cho 👋
 
-- 👩🏻‍💻 Recent website I created for a hackathon: [Mexicanaaaaa](https://mexicana-el-hackathon.vercel.app/)
+- 👩🏻‍💻 Recent website I created for a hackathon: [Mexicanaaa](https://mexicana-el-hackathon.vercel.app/)
 - 🌱 I am currently teaching a bright group of people.
 - 👩🏻‍🏫 I swear on writing clean & readable code.
 - 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
