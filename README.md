@@ -1,8 +1,8 @@
 ## Kem cho 👋
 
 - 👩🏻‍💻 Recent website I created for a hackathon: [Mexicanaaa](https://mexicana-el-hackathon.vercel.app/)
-- 🌱 I am currently teaching a bright group of people.
-- 👩🏻‍🏫 I swear on writing clean & readable code.
+- 💬 Fun fact: Big Fan of the ⚡ emoji
+- 👩🏻‍🏫 I like challenges on Codewars: [Want to have a JS run?](https://www.codewars.com/users/Monishka11).
 - 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
 
 
