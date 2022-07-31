@@ -1,7 +1,7 @@
 ## Kem cho 👋
 
 - 👩🏻‍💻 Recent website I created for a hackathon: [Mexicanaaa](https://mexicana-el-hackathon.vercel.app/)
-- 💬 Fun fact: Big Fan of the ⚡ emoji
+- 💬 Fun fact: Big Fan of the <img align="center" alt="cat" width="26px" src="https://media.tenor.com/images/d12294532cec0d5eb342bd5f57c525bd/tenor.gif" /> emoji
 - 👩🏻‍🏫 I like challenges on Codewars: [Want to have a JS run?](https://www.codewars.com/users/Monishka11).
 - 📫 Where to (reach me) ? (monishkagohil1194@gmail.com) : (https://www.linkedin.com/in/monishka-gohil11/) ;
 
