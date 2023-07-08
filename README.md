@@ -8,9 +8,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Monishka11.Monishka11&style=flat-square&color=0088cc)
 
+<!--
 ![Monishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monishka11&count_private=true&theme=highcontrast&show_icons=true)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+-->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
